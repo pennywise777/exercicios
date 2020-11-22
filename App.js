@@ -9,7 +9,7 @@ const HelloWorldApp = () => {
         justifyContent: "center",
         alignItems: "center"
       }}>
-      <Text>Hello World !!!</Text>
+      <Text>Ola mundo!</Text>
     </View>
   )
 }
